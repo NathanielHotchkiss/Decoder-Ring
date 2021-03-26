@@ -7,4 +7,4 @@
 ### The Polybius Cipher arranges the alphabet into rows and columns to assign two digit values. I attempted to softcode this, but kept hitting road blocks. I ended up hard coding this with a switch statement, which works as expected, however I plan on going back and solving this properly.
 
 ## Substitution Cipher
-### The Substitution Cipher takes a subsstitution alphabet and tranposes it to the standard alphabet. I thought this would be the most difficult cipher to tackle, but I was able to solve this quickly. This cipher is when everthing "clicked" for me during this project. 
+### The Substitution Cipher takes a substitution alphabet and tranposes it to the standard alphabet. I thought this would be the most difficult cipher to tackle, but I was able to solve this quickly. This cipher is when everthing "clicked" for me during this project. 
