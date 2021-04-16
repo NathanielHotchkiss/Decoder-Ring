@@ -19,7 +19,7 @@
 
 ## Link
 
-nathanielhotchkiss.github.io/project-decoder-ring/
+https://nathanielhotchkiss.github.io/Project-Decoder-Ring/
 
 ## Technology
 
