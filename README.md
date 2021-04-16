@@ -16,3 +16,12 @@
 #### The Substitution Cipher takes a substitution alphabet and tranposes it to the standard alphabet. I thought this would be the most difficult cipher to tackle, but I was able to solve this quickly. This cipher is when everthing "clicked" for me during this project. 
 
 ![A screen shot of the Substitution](/src/images/Substitution.png)
+
+## Link
+
+nathanielhotchkiss.github.io/project-decoder-ring/
+
+## Technology
+
+Built with Javascript  
+Styled with Bootstrap
