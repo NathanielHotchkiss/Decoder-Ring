@@ -16,10 +16,6 @@ A Thinkful assignment testing our understanding of JavaScript. You can encode or
 
 ![A screen shot of the Substitution](/images/Substitution.png)
 
-## Link
-
-https://decoder-ring-coral.vercel.app/
-
 ## Technology
 
 Javascript  
