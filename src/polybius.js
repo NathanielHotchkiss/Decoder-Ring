@@ -1,6 +1,5 @@
 const polybiusModule = (function () {
   function polybius(input, encode = true) {
-    // ensure that an input is given, and the input is a string
     if (!input || typeof input == "number") return false; 
     let inputSpace = input.split(" ").join("##");
     if (encode === false && inputSpace.length % 2 !== 0) return false;
